@@ -12,8 +12,3 @@
 - **CSS-переменные** — управление цветовой схемой
 - **Font Awesome** — иконки (подключены через CDN)
 - **Git** — контроль версий
-
-## 🚀 Как запустить
-1. Клонируй репозиторий:
-   ```bash
-   git clone https://github.com/HomkaQWE/webstudio-landing.git
